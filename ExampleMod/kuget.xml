@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-
+<!--kai-builder-->
 <kuget>
 
 	<version type="required">1.0</version>
@@ -10,4 +10,8 @@
 	<dependencies />
 	
 	<plugin-type content="utility" />
+
+	<sourceversion>1.0</sourceversion>
+	
+	<sourcedir>src</sourcedir>
 </kuget>
