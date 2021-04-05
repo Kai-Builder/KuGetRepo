@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<kuget>
+
+	<version type="required">1.0</version>
+
+	<name>My Package</name>
+	
+	<dependencies />
+	
+	<plugin-type content="utility" />
+</kuget>
